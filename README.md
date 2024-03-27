@@ -23,4 +23,4 @@ node index.js
 
 - You can change the keywords in the index.js file!
 
-https://github.com/Snoofz/Vencord-Theme-Library/assets/165219710/bb7684d1-d99c-42e8-8999-18fffbb8b6df
+![Main](https://github.com/Snoofz/Vencord-Theme-Library/assets/165219710/1efb7b5c-f975-49c6-8be4-636e7e70a492)
